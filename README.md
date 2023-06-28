@@ -1,3 +1,18 @@
+# Attention
+
+### This repository is redistribution of [NCalc](https://github.com/ncalc/ncalc).
+
+This repository is intended to provide NCalc by package registry server for Unity Package Manager.
+
+Also it is used by some other ANU packages.
+
+## How to install
+
+- from git url: `https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.ncalc.git`
+- from npm: ` `
+
+----
+
 # NCalc
 
 [![Appveyor](https://img.shields.io/appveyor/ci/yallie/ncalc.svg)](https://ci.appveyor.com/project/yallie/ncalc)
